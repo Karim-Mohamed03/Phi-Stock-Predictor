@@ -11,7 +11,7 @@ import {
   Tooltip,
   Legend
 } from 'chart.js';
-import WaveLoading from './waveloading';
+import WaveLoading from './waveLoading';
 
 ChartJS.register(
   CategoryScale,
